@@ -34,6 +34,7 @@ files_and_labels = [
     ("dataset/help/sample1.wav", 1),
     ("dataset/Non-help/noise.wav", 0),
     ("dataset/Non-help/crowd.wav", 0),
+    ("dataset/Non-help/crowd2.wav", 0),
 ]
 
 X = []
